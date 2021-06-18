@@ -1,2 +1,2 @@
 # EPAM_DWBI_2021
-My homeworks from 
+My homeworks from the course
